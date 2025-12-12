@@ -82,3 +82,12 @@ The detailed report is provided in the repository as **AIT_511_ML_2.pdf**.
 ---
 
 ## Project Structure
+- `data/` - Dataset files and preprocessing scripts
+- `notebooks/` - Exploratory data analysis and model implementation
+
+## Technologies Used
+- Python
+- Scikit-learn
+- PyTorch
+- Pandas, NumPy
+- Matplotlib, Seaborn
